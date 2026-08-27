@@ -37,7 +37,7 @@
 ### 🔥 Minhas Estatísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=luantomimoto&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=luantomimoto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luantomimoto&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
