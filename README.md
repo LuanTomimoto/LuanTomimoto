@@ -42,7 +42,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luantomimoto&theme=tokyonight&hide_border=true" width="97%" />
-</div>
