@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/10bxTLrpJb0wIU/giphy.gif" width="120" alt="Hatsune Miku 2000s">
   
-  <h1>Hi 👋, I'm Luan Tomimoto</h1>
+  <h1>Ego sum Luan Tomimoto</h1>
   <h3>Full Stack Web Developer | AI Automation Engineer | CTO</h3>
 </div>
 
