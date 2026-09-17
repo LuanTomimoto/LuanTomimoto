@@ -14,7 +14,7 @@
 ### 👨‍💻 Sobre mim (ORA et LABORA)
 
 - 🚀 **Construindo no momento:** Plataformas CRM e CRO omnicanal com IA (**FLY APEX e ELOPRO**), Plataforma de Gestão Comercial para Vendedores ORAsale, SaaS para automação e extensões de navegador (**OneBuck Recorder**).
-- 💼 **Ocupação:** CTO na Fly & ZeroFly, cofundador da ORAsale, e Full Stack / AI Automation Engineer na Sophia, Desenvolvedor FullStack no Elopro.
+- 💼 **Ocupação:** Desenvolvedor Chefe na Fly & ZeroFly, cofundador da ORAsale, e Full Stack / AI Automation Engineer na Sophia, Desenvolvedor FullStack no Elopro.
 - ⚙️ **Especialidades:** Interfaces UI/UX, API REST, Arquitetura de backend (n8n, Supabase, PostgreSQL), extração de dados/web scraping e conteinerização (Docker).
 - 🔋 **Off-screen:** Puxando ferro na academia, fazendo celular velho de server, Counter Strike Player e escritor/orador de essayslop.
 
