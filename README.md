@@ -15,7 +15,7 @@
 
 - 🚀 **Currently Building:** AI-powered omnichannel CRM & CRO platforms (**FLY APEX & ELOPRO**), Commercial Management Platform for sales teams (ORAsale), and browser extension automation SaaS (**OneBuck Recorder**).
 - 💼 **Current Roles:** Lead Developer at Growth Fly, Co-founder at ORAsale.
-- ⚙️ **Core Competencies:** UI/UX Interfaces, REST APIs, High-Performance Backend Systems (PostgreSQL, Redis, Supabase), API Design & Workflow Orchestration (n8n, Microservices), UI/UX Interfaces, Data Extraction, Containerization (Docker), Web Scraping/Data Extraction, and Containerization (Docker).
+- ⚙️ **Core Competencies:** UI/UX Interfaces, REST APIs, High-Performance Backend Systems (PostgreSQL, Redis, Supabase), API Design & Workflow Orchestration (n8n, Microservices), UI/UX Interfaces, Data Extraction, Web Scraping/Data Extraction, and Containerization (Docker).
 - 🔋 **Off-screen:** Lifting heavy at the gym, turning old smartphones into home servers, Counter-Strike enthusiast, and essayslop writer/speaker.
 
 ### 🌐 Connect with me:
