@@ -11,30 +11,30 @@
 
 ---
 
-### 👨‍💻 Sobre mim (ORA et LABORA)
+### 👨‍💻 About Me (ORA et LABORA)
 
-- 🚀 **Construindo no momento:** Plataformas CRM e CRO omnicanal com IA (**FLY APEX e ELOPRO**), Plataforma de Gestão Comercial para Vendedores ORAsale, SaaS para automação e extensões de navegador (**OneBuck Recorder**).
-- 💼 **Ocupação:** Desenvolvedor Chefe na Fly & ZeroFly, cofundador da ORAsale, e Full Stack / AI Automation Engineer na Sophia, Desenvolvedor FullStack no Elopro.
-- ⚙️ **Especialidades:** Interfaces UI/UX, API REST, Arquitetura de backend (n8n, Supabase, PostgreSQL), extração de dados/web scraping e conteinerização (Docker).
-- 🔋 **Off-screen:** Puxando ferro na academia, fazendo celular velho de server, Counter Strike Player e escritor/orador de essayslop.
+- 🚀 **Currently Building:** AI-powered omnichannel CRM & CRO platforms (**FLY APEX & ELOPRO**), Commercial Management Platform for sales teams (ORAsale), and browser extension automation SaaS (**OneBuck Recorder**).
+- 💼 **Current Roles:** Lead Developer at Growth Fly, Co-founder at ORAsale.
+- ⚙️ **Core Competencies:** UI/UX Interfaces, REST APIs, Backend Architecture (n8n, Supabase, PostgreSQL), Web Scraping/Data Extraction, and Containerization (Docker).
+- 🔋 **Off-screen:** Lifting heavy at the gym, turning old smartphones into home servers, Counter-Strike enthusiast, and essayslop writer/speaker.
 
-### 🌐 Conecte-se comigo:
+### 🌐 Connect with me:
 
 <a href="https://www.linkedin.com/in/luantomimoto/">
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br><br>
 
-### 🛠️ Linguagens e Ferramentas:
+### 🛠️ Languages & Tools:
 
 <p align="left">
-  <!-- Ícones mais modernos usando a API do skillicons -->
+  <!-- Modern tech stack icons via skillicons API -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,postgres,supabase,docker,redis&perline=10" />
   </a>
 </p>
 
-### 🔥 Minhas Estatísticas:
+### 🔥 My Stats:
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=luantomimoto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
